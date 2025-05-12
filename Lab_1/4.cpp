@@ -17,8 +17,8 @@ namespace districtNo
 int main()
 {
     using namespace province;
-    cout<<a<<" Province has"<<districtNo::da<<" districts."<<endl;
-    cout<<b<<" Province has"<<districtNo::db<<" districts."<<endl;
+    cout<<a<<" Province has "<<districtNo::da<<" districts."<<endl;
+    cout<<b<<" Province has "<<districtNo::db<<" districts."<<endl;
     return 0;
 }
 
